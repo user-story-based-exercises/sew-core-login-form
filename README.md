@@ -14,6 +14,7 @@ SEW | CORE | Login Form
 - A login form is created.
 - The form consists of a username and password field.
 - The form also has a login button.
+- Tailwind is used to style the form.
 - No further login functionality is needed.
 
 ### Links
